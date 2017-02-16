@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Encuesta</title>
+</head>
+<body>
+<h1>Encuesta literaria</h1>
+<form action="/Encuesta/mostrar">
+Nombre
+<input type="text" name="nombre"/><br>
+Apellidos
+<input type="text" name="apellidos"/><br>
+Estudios<br>
+<select name='estudios' >
+<option>Primaria</option>
+<option>Secuandaria</option>
+<option>Bachillerato</option>
+</select><br>
+
+
+</form>
+</body>
+</html>

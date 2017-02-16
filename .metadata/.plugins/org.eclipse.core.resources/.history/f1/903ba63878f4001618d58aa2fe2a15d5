@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+<h1>Sesiones</h1>
+<form action="÷Sesiones/anyadir">
+	Atributo<br>
+	<input type="text" name="atributo"><br><br>
+	Valor<br>
+	<input type="text" name="valor"> <br><br>
+	<input type="submit" Value="Añadir">
+</form>
+
+</body>
+</html>
