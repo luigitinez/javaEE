@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;InvalidarSesionServlet.java&apos; to &apos;Sesiones/src/(default package)&apos;&#x0A;- Original project: &apos;Encuesta&apos;&#x0A;- Destination element: &apos;Sesiones/src/(default package)&apos;&#x0A;- Original element: &apos;InvalidarSesionServlet.java&apos;" description="Copy compilation unit" destination="=Sesiones/src&lt;" element1="/src&lt;{InvalidarSesionServlet.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1487615790799" units="1" version="1.0"/>
+</session>

@@ -1,10 +1,7 @@
 INDEX VERSION 1.3+/Users/luis/Documents/2 GSDAW/DAW/javaEE/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
 1350048499.index
 3264998129.index
-2427056462.index
 2504952994.index
-3271569853.index
 871719149.index
-1081239511.index
-332807302.index
-764828609.index
+1038213927.index
+1307712904.index
